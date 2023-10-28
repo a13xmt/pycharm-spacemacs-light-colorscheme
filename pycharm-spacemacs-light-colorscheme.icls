@@ -3,7 +3,7 @@
     <property name="created">2021-02-26T16:12:38</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2020.3.3.0.0</property>
-    <property name="modified">2021-02-26T16:12:44</property>
+    <property name="modified">2023-03-13T09:54:41</property>
     <property name="originalScheme">pycharm-spacemacs-light-colorscheme</property>
   </metaInfo>
   <colors>
@@ -188,7 +188,7 @@
     </option>
     <option name="BASH.EXTERNAL_COMMAND">
       <value>
-        <option name="FOREGROUND" value="b58900" />
+        <option name="FOREGROUND" value="777bb" />
       </value>
     </option>
     <option name="BASH.FUNCTION_CALL">
@@ -273,7 +273,6 @@
         <option name="FOREGROUND" value="69be" />
       </value>
     </option>
-    <option name="COFFEESCRIPT.FUNCTION_NAME" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
     <option name="COFFEESCRIPT.IDENTIFIER">
       <value>
         <option name="FOREGROUND" value="657b83" />
@@ -845,8 +844,6 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="GHERKIN_OUTLINE_PARAMETER_SUBSTITUTION" baseAttributes="DEFAULT_INSTANCE_FIELD" />
-    <option name="GHERKIN_PYSTRING" baseAttributes="DEFAULT_STRING" />
     <option name="GHERKIN_REGEXP_PARAMETER">
       <value>
         <option name="FOREGROUND" value="268bd2" />
@@ -1171,13 +1168,17 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="JS.INSTANCE_MEMBER_FUNCTION" baseAttributes="DEFAULT_INSTANCE_METHOD" />
+    <option name="JS.INSTANCE_MEMBER_FUNCTION">
+      <value />
+    </option>
     <option name="JS.INTERFACE">
       <value />
     </option>
-    <option name="JS.LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
-    <option name="JS.PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
-    <option name="JS.REGEXP" baseAttributes="DEFAULT_STRING" />
+    <option name="JS.LOCAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="276373" />
+      </value>
+    </option>
     <option name="JS.STATIC_MEMBER_FUNCTION">
       <value>
         <option name="FOREGROUND" value="d33682" />
